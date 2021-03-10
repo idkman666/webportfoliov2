@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webportfoliov2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/webportfoliov2/static/js/main.26414c9d.chunk.js",
+    "main.js.map": "/webportfoliov2/static/js/main.26414c9d.chunk.js.map",
+    "runtime-main.js": "/webportfoliov2/static/js/runtime-main.fb4ac506.js",
+    "runtime-main.js.map": "/webportfoliov2/static/js/runtime-main.fb4ac506.js.map",
+    "static/js/2.56cfb2c2.chunk.js": "/webportfoliov2/static/js/2.56cfb2c2.chunk.js",
+    "static/js/2.56cfb2c2.chunk.js.map": "/webportfoliov2/static/js/2.56cfb2c2.chunk.js.map",
+    "static/js/3.c4fed8db.chunk.js": "/webportfoliov2/static/js/3.c4fed8db.chunk.js",
+    "static/js/3.c4fed8db.chunk.js.map": "/webportfoliov2/static/js/3.c4fed8db.chunk.js.map",
+    "index.html": "/webportfoliov2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/webportfoliov2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.56cfb2c2.chunk.js.LICENSE.txt": "/webportfoliov2/static/js/2.56cfb2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/webportfoliov2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4ac506.js",
+    "static/js/2.56cfb2c2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.26414c9d.chunk.js"
+  ]
+}
