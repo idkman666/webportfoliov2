@@ -65,7 +65,7 @@ export default function WorkComponent() {
 
     return (
         <div data-aos="fade-right" className="container work body-card">
-            <h2 className="header-title container main-card">Work Experience</h2>
+            <h2 className="header-title container main-card">WORK EXPERIENCE</h2>
             <div className="body-container">
                 <WorkExpCard ImgSrc={RESimg} 
                 title="Resource Energy Solutions" description={resDes} position="Junior Software Developer" 

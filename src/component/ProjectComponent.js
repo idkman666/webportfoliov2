@@ -92,7 +92,7 @@ export default function ProjectComponent() {
 
     return (
         <div data-aos="fade-right" className="container body-card">
-            <h2 className="header-title container main-card">Projects</h2>
+            <h2 className="header-title container main-card">PROJECTS</h2>
             <div className="body-container">
                 {isMainPage == true ? <div className="grid-container">
                     <PrjCard ImgSrc={aspImg} des={aspDes} value="aspnetcore" />

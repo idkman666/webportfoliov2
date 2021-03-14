@@ -47,7 +47,7 @@ export default function EducationComponent() {
 
     return (
         <div data-aos="fade-right" className="container work body-card">
-            <h2 className="header-title container main-card">Education</h2>
+            <h2 className="header-title container main-card">EDUCATION</h2>
             <div className="body-container">
                <div className="grid-container">
                     <EducationCard value="coursera" ImgSrc={courseraImg} description1="IBM AI Engineering" 

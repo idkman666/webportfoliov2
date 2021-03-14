@@ -7,7 +7,7 @@ export default function AboutComponent() {
 
     return (
         <div data-aos="fade-right" className="container work body-card">
-            <h2 className="header-title container main-card">About Me</h2>
+            <h2 className="header-title container main-card">ABOUT ME</h2>
             <div className="body-container">
         
             </div>

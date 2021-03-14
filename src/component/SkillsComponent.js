@@ -22,7 +22,7 @@ export default function SkillsComponent() {
 
     return (
         <div data-aos="fade-right" className="container body-card">
-            <h2 className="header-title container main-card">Skills</h2>
+            <h2 className="header-title container main-card">SKILLS</h2>
             <div className="body-container">
                <div className="grid-container">
                    <SkillImgs imgSrc={sqlimg} title="SQL" />
